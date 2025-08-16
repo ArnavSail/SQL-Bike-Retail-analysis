@@ -3,7 +3,7 @@
 
 This project explores a Bike Retail Database through 15 SQL queries, covering a wide range of real-world business questions. The goal is to practice and demonstrate SQL skills in data analysis, reporting, and business insights.
 
-🔑 Key Highlights
+🔑 Key Highlights<br>
 ✅ Join operations across multiple tables (products, brands, categories, orders, customers, stores).<br>
 ✅ Business KPIs such as total orders, revenue per order, and customer spending.<br>
 ✅ Advanced SQL techniques:<br>
