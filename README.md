@@ -4,14 +4,14 @@
 This project explores a Bike Retail Database through 15 SQL queries, covering a wide range of real-world business questions. The goal is to practice and demonstrate SQL skills in data analysis, reporting, and business insights.
 
 🔑 Key Highlights
-✅ Join operations across multiple tables (products, brands, categories, orders, customers, stores).
-✅ Business KPIs such as total orders, revenue per order, and customer spending.
-✅ Advanced SQL techniques:
--Aggregations & Grouping (sales, stock levels, order counts)
--CASE statements for revenue categorization & product performance
--CTEs & Recursive CTEs for customer spend and staff hierarchy
--Window functions to rank top-performing products
--Stored procedure with WHILE loop to fetch top N customers by spend
+✅ Join operations across multiple tables (products, brands, categories, orders, customers, stores).<br>
+✅ Business KPIs such as total orders, revenue per order, and customer spending.<br>
+✅ Advanced SQL techniques:<br>
+-Aggregations & Grouping (sales, stock levels, order counts)<br>
+-CASE statements for revenue categorization & product performance<br>
+-CTEs & Recursive CTEs for customer spend and staff hierarchy<br>
+-Window functions to rank top-performing products<br>
+-Stored procedure with WHILE loop to fetch top N customers by spend<br>
 
 📂 Project Structure
 -15 questions solved using SQL
